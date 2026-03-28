@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/1194724607.svg)](https://doi.org/10.5281/zenodo.19296167)
+
 # Reproducibility Instructions for Reviewers
 
 This repository accompanies the paper:
