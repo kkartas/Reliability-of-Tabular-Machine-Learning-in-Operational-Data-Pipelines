@@ -4,7 +4,7 @@ This repository accompanies the paper:
 
 `Reliability of Tabular Machine Learning in Operational Data Pipelines: Structured Corruption Stress Testing for Decision Support and Expert Systems`
 
-This README is intentionally limited to the reproduction of the experiments reported in the paper. It does not include manuscript-build steps, archival metadata steps, or submission-packaging instructions.
+This README is intentionally limited to the reproduction of the experiments reported in the paper.
 
 ## Requirements
 
