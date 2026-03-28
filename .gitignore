@@ -8,6 +8,7 @@ __pycache__/
 *.pyd
 .pytest_cache/
 
+paper/
 paper/*.aux
 paper/*.bbl
 paper/*.blg
@@ -23,6 +24,7 @@ paper/AuthorGuide/fig/
 
 results/
 
+docs/
 docs/compile_check_latest.txt
 docs/paper_numbers_latest.txt
 docs/paper_numbers_latest.json
@@ -30,3 +32,5 @@ docs/paper_numbers_validation.json
 docs/paper_numbers_validation_*.json
 
 submission/
+
+scripts/
